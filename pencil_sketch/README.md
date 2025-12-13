@@ -45,7 +45,8 @@ This process enhances edges and produces a hand-drawn pencil effect.
 
 ---
 
-<img width="835" height="174" alt="image" src="https://github.com/user-attachments/assets/8a020c52-970a-4541-8015-bfc654f4940a" />
+<img width="985" height="236" alt="image" src="https://github.com/user-attachments/assets/2da87a2b-e85b-41cb-bed7-e35bcdca80a8" />
+
 
 ---
 
