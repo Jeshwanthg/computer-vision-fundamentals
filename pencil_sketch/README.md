@@ -43,12 +43,9 @@ This process enhances edges and produces a hand-drawn pencil effect.
 
 ## 📂 Project Structure
 
-pencil_sketch/
-|
-|--sketch.py
-|--test_curved_road.jpg
-|--result.png
-|--README.md
+---
+
+<img width="835" height="174" alt="image" src="https://github.com/user-attachments/assets/8a020c52-970a-4541-8015-bfc654f4940a" />
 
 ---
 
