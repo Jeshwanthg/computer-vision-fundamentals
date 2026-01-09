@@ -15,7 +15,7 @@ It demonstrates fundamental concepts of **image processing**, **GUI development*
 
 ---
 
-## 🛠 Technologies Used
+## 🛠 Packagess Used
 
 - Python
 - OpenCV
