@@ -12,7 +12,7 @@ The project processes all images in a folder, detects objects, draws bounding bo
 
 ## Sample Result
 
-![YOLO Detection](output/detected_test1.jpg)
+![YOLO Detection](output/detected_test2.jpg)
 
 ---
 
